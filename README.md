@@ -4,7 +4,7 @@
   <img alt="Convox" src="https://img.shields.io/badge/Node.js-Express-green" />
   <img alt="React" src="https://img.shields.io/badge/React-19.0-blue" />
   <img alt="MongoDB" src="https://img.shields.io/badge/Database-MongoDB-green" />
-  <img alt="License" src="https://img.shields.io/badge/License-ISC-blue" />
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-blue" />
 </div>
 
 ## 📱 Overview
@@ -252,7 +252,7 @@ For questions, issues, or suggestions, please create an issue in the repository.
 
 ## 📄 License
 
-This project is licensed under the ISC License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
